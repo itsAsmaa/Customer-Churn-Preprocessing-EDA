@@ -147,10 +147,6 @@ customer-churn-analysis/
 │   └── standerdization.csv          # Standardized data
 │
 ├── visualizations/                  # Generated plots and charts
-│   ├── missing_values_analysis.png
-│   ├── outlier_boxplots.png
-│   ├── correlation_heatmap.png
-│   └── feature_distributions.png
 │
 ├── requirements.txt                 # Python dependencies
 ├── README.md                        # Project documentation
