@@ -14,7 +14,7 @@ A comprehensive machine learning data preprocessing and exploratory data analysi
 - [Results](#results)
 - [Contributing](#contributing)
 - [License](#license)
-
+- [Authors](#Authors)
 ## Overview
 
 This project implements a complete data preprocessing pipeline for a customer churn prediction dataset. It addresses real-world data quality issues including missing values, outliers, and feature scaling while maintaining data integrity and documenting all decisions with clear justifications.
@@ -257,7 +257,17 @@ For questions or feedback, please open an issue on GitHub.
 
 ---
 
-**Note**: This is an educational project demonstrating data preprocessing and EDA techniques for machine learning applications. The dataset is synthetic and created for learning purposes.
+## Authors
+
+* **Asma’a Abdalrahman Shejaeya** — Student ID: 1210084  
+  GitHub: https://github.com/AsmaaShejaeya
+
+* **Khaled Azmi Rimawi** — Student ID: 1210618  
+  GitHub: https://github.com/KhaledRimawi
+
+Department of Electrical & Computer Engineering  
+Birzeit University
+---  
 
 ## Related Resources
 
